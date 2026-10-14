@@ -1,0 +1,6 @@
+{
+  "name": "OmniGestion - Gestion Commerciale & Stocks",
+  "description": "Application professionnelle de gestion commerciale connectée à Google Sheets avec multi-utilisateurs, gestion des ventes, stocks, achats et catalogue public.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
